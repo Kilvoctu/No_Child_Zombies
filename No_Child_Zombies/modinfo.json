@@ -1,0 +1,15 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "No_Child_Zombies",
+    "name": "No Child Zombies",
+    "authors": [ "Kilvoctu" ],
+    "description": "Removes zombie children from the game.",
+    "category": "monster_exclude",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "MONSTER_BLACKLIST",
+    "monsters": [ "mon_zombie_child", "mon_zombie_child_fungus", "mon_zombie_anklebiter", "mon_zombie_child_scorched", "mon_zombie_creepy", "mon_zombie_shriekling", "mon_zombie_snotgobbler", "mon_zombie_sproglodyte", "mon_zombie_waif" ]
+  }
+]
